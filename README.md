@@ -82,9 +82,6 @@ A real-time VGA graphics system implemented on the Digilent Basys3 Artix-7 FPGA 
 
 /constraints
   basys3_vga.xdc             -- Basys3 pin assignments
-
-/docs
-  CE339_assignment2.pdf      -- full project report
 ```
 
 ---
